@@ -1,0 +1,57 @@
+{
+	"replay" : {
+		"researchTitle" : "replay",
+		"coordinate" : [380, 450],
+		"returnMsg" : "战斗结束,再次开始"
+	},
+	"victory" : {
+		"researchTitle" : "reward",
+		"coordinate" : [550, 900],
+		"returnMsg" : "战斗胜利,已完成战斗{}次"
+	},
+	"start" : {
+		"researchTitle" : "leader",
+		"coordinate" : [200, 1100],
+		"returnMsg" : "战斗再次开始"
+	},
+	"list" : {
+		"researchTitle" : "item drop info",
+		"coordinate" : [100,1080],
+		"returnMsg" : "跳出界面,重新回去"
+	},
+	"runout" : {
+		"researchTitle" : "not enough energy",
+		"coordinate" : [241, 241],
+		"returnMsg" : "没有足够能量了"
+	},
+	"shop" : {
+		"researchTitle" : "shop",
+		"coordinate" : [241, 241],
+		"returnMsg" : "打开能量购买商店"
+	},
+	"death" : {
+		"researchTitle" : "continue the battle",
+		"coordinate" : [250,850],
+		"returnMsg" : "战斗死亡,不复活"
+	},
+	"defeat" : {
+		"researchTitle" : "defe",
+		"coordinate" : [380, 450],
+		"returnMsg" : "战斗失败"
+	},
+	"buy" : {
+		"researchTitle" : "purchase with 30 crystal",
+		"coordinate" : [241, 241],
+		"returnMsg" : "确定购买能量."
+	},
+	"closeBuyAndShop" : {
+		"researchTitle" : "purchase successful",
+		"coordinate" : [[290,230],[660,1100]],
+		"returnMsg" : "购买能量成功.已购买{}次"
+	},
+	"networkError" : {
+		"researchTitle" : "network connection delayed",
+		"coordinate" : [250.550],
+		"returnMsg" : "战斗结束,再次开始"
+	}
+}

@@ -1,0 +1,57 @@
+{
+	"replay" : {
+		"researchImg" : "giantReplay.png",
+		"coordinate" : [800, 550],
+		"returnMsg" : "战斗结束,再次开始"
+	},
+	"victory" : {
+		"researchImg" : "giantVictory.png",
+		"coordinate" : [1040, 1440],
+		"returnMsg" : "战斗胜利,已完成战斗{}次"
+	},
+	"start" : {
+		"researchImg" : "start.png",
+		"coordinate" : [440, 1680],
+		"returnMsg" : "战斗再次开始"
+	},
+	"list" : {
+		"researchImg" : "list.png",
+		"coordinate" : [300,1720],
+		"returnMsg" : "跳出界面,重新回去"
+	},
+	"runout" : {
+		"researchImg" : "giantRunout.png",
+		"coordinate" : [480, 460],
+		"returnMsg" : "没有足够能量了"
+	},
+	"shop" : {
+		"researchImg" : "shop.png",
+		"coordinate" : [380, 350],
+		"returnMsg" : "打开能量购买商店"
+	},
+	"death" : {
+		"researchImg" : "giantReview.png",
+		"coordinate" : [500,1300],
+		"returnMsg" : "战斗死亡,不复活"
+	},
+	"defeat" : {
+		"researchImg" : "giantDefeated.png",
+		"coordinate" : [800, 550],
+		"returnMsg" : "战斗失败"
+	},
+	"buy" : {
+		"researchImg" : "confrim.png",
+		"coordinate" : [480, 460],
+		"returnMsg" : "确定购买能量."
+	},
+	"closeBuyAndShop" : {
+		"researchImg" : "success.png",
+		"coordinate" : [[480, 460],[270,1040]],
+		"returnMsg" : "购买能量成功.已购买{}次"
+	},
+	"networkError" : {
+		"researchImg" : "network.png",
+		"coordinate" : [480, 460],
+		"returnMsg" : "网络错误"
+	}
+}
