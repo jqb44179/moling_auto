@@ -39,15 +39,15 @@
 		"coordinate" : [800, 550],
 		"returnMsg" : "战斗失败"
 	},
-	"buy" : {
-		"researchImg" : "confrim.png",
-		"coordinate" : [480, 460],
-		"returnMsg" : "确定购买能量."
-	},
 	"closeBuyAndShop" : {
 		"researchImg" : "success.png",
 		"coordinate" : [[480, 460],[270,1040]],
 		"returnMsg" : "购买能量成功.已购买{}次"
+	},
+	"buy" : {
+		"researchImg" : "confrim.png",
+		"coordinate" : [480, 460],
+		"returnMsg" : "确定购买能量."
 	},
 	"networkError" : {
 		"researchImg" : "network.png",
